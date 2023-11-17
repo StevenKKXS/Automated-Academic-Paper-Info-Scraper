@@ -18,3 +18,6 @@
 参考 [范围认证 - 中国科学院文献情报中心期刊分区表升级版](http://advanced.fenqubiao.com/Macro/Journal?name=%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6&year=2022)，手动定义的期刊等级
 - conferences_level.txt
 参考CCF2022给出的会议登记pdf来手动定义的会议等级
+
+# Concluding Remarks
+愿天堂没有杂活:pray:
