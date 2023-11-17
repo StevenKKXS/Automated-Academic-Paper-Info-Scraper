@@ -1,0 +1,10 @@
+pami 1
+tkde 2
+prl 3
+tcss 2
+tmm 1
+tsmc 1
+ijautcomp 4
+tois 2
+fcsc 3
+tomccap 3
