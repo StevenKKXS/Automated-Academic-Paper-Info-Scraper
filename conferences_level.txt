@@ -1,6 +1,6 @@
 icde A
-aaai B
-www B
+aaai A
+www A
 kdd A
 iclr No
 recsys B
